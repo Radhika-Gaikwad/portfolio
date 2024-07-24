@@ -2,7 +2,7 @@
 
 **Motive**: Showcase my skills, projects, and achievements as a web developer.
 
-![Portfolio Image](./Untitled design (2).png)
+![Portfolio Image](./image.png)
 
 ## Project Overview
 This is my personal portfolio website, built using React and Framer Motion. The purpose of this website is to provide a comprehensive overview of my skills, projects, achievements, and contact information in a visually appealing and interactive manner.
